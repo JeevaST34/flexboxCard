@@ -75,6 +75,13 @@ h1 {
   height: 44px;
 }
 
+.footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 1.2rem;
+}
+
 /* Breakpoints */
 @media screen and (max-width: 1024px) {
   .card {
